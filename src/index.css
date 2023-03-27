@@ -282,16 +282,20 @@ li {
 @media (max-width: 500px) {
   
   header {
+    padding-left: 30px;
     height: 69px;
     width: 390px;
   }
   main {
+    padding-left: 10px;
     display: flex;
     flex-direction: column;
   }
   .form {
-    align-self: center;
     height: 434px;
     width: 355px;
+  }
+  ul{
+    padding-left: 10px;
   }
 }
