@@ -11,7 +11,7 @@ import { DefTempl } from './Templates/templatesDef'
 import { TrCards } from './Components/components/trCards'
 import {v4 as uuidv4} from "uuid"
 import { List } from "./Components/components/list/list"
-
+import logo from "../src/assets/Nu Kenzie.png"
 
 
 
