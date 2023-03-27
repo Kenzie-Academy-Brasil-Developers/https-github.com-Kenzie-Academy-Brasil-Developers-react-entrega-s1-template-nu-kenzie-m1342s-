@@ -10,7 +10,7 @@ import { ValorTotal } from './Components/components/valorTotal'
 import { DefTempl } from './Templates/templatesDef'
 import { TrCards } from './Components/components/trCards'
 import {v4 as uuidv4} from "uuid"
-import { List } from "./Components/list/list"
+import { List } from "./Components/components/list/list"
 
 
 

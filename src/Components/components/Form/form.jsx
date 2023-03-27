@@ -1,6 +1,6 @@
 import { useState } from "react"
 import {v4 as uuidv4} from "uuid"
-import { List } from "../../List/list"
+import { List } from "../list/list"
 export function Form({addTrans,addTransSet}) {
     
 const options= [{

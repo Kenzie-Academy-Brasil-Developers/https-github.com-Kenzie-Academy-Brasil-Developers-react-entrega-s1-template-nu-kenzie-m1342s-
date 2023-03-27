@@ -1,6 +1,6 @@
 import { useState } from "react"
-import { Form } from "../components/Form/form"
-import { TrCards } from "../components/trCards"
+import { Form } from "../Form/form"
+import { TrCards } from "../trCards"
 
 
 
